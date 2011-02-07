@@ -52,3 +52,6 @@ slidedeck.jquery.lite.js        The SlideDeck library source if you want to make
 slidedeck.jquery.lite.pack.js   The packed SlideDeck library file, recommended for production use
 LICENSE.txt                     The license agreement for SlideDeck
 README.txt                      This file :)
+
+
+foos are comming
